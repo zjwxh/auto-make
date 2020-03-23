@@ -10,7 +10,5 @@
 git clone https://github.com/Lienol/openwrt-package.git
 git clone https://github.com/tzxiaozhen88/koolproxyR.git
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
-git remote add -f origin https://github.com/vernesong/OpenClash.git
-git config core.sparsecheckout true
 ./scripts/feeds update -a
 ./scripts/feeds install -a
