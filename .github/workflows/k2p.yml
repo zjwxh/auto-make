@@ -16,8 +16,8 @@ on:
       - master
     paths:
       - 'k2p.config'
-  schedule:
-    - cron: 0 21 * * *
+#  schedule:
+#    - cron: 0 21 * * *
 # watch:
 #   types: started
 
