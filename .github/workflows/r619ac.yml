@@ -13,7 +13,7 @@ on:
     types: published
   push:
     branches:
-      - openwrt-19.07
+      - master
     paths:
       - 'r619ac.config'
   schedule:
@@ -23,10 +23,10 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: openwrt-19.07
+  REPO_BRANCH: master
   CONFIG_FILE: r619ac.config
   DIY_SH: r619ac.sh
-  SSH_ACTIONS: true
+  SSH_ACTIONS: false
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
