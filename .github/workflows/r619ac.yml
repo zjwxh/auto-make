@@ -9,6 +9,7 @@
 name: r619ac OpenWrt
 
 on:
+  repository_dispatch:
   release:
     types: published
   push:
