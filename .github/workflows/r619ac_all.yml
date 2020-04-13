@@ -9,6 +9,7 @@
 name: r619ac_all OpenWrt
 
 on:
+  repository_dispatch:
   release:
     types: published
   push:
@@ -18,7 +19,6 @@ on:
       - 'r619ac_all.config'
   schedule:
     - cron: 0 21 * * *
-
 #  watch:
 #    types: started
 
