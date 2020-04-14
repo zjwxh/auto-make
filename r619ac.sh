@@ -14,6 +14,6 @@ git clone https://github.com/tzxiaozhen88/koolproxyR.git
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
 git clone https://github.com/Lienol/openwrt-package.git
 git clone https://github.com/vernesong/OpenClash.git
-git clone https://github.com/pymumu/luci-app-smartdns                      package/luci-app-smartdns
-git clone https://github.com/pymumu/openwrt-smartdns                       package/openwrt-smartdns
-git clone https://github.com/frainzy1477/luci-app-clash           package/luci-app-clash
+git clone https://github.com/pymumu/luci-app-smartdns                   
+git clone https://github.com/pymumu/openwrt-smartdns
+git clone https://github.com/frainzy1477/luci-app-clash     
