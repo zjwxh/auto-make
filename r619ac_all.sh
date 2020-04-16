@@ -14,3 +14,5 @@ git clone https://github.com/tzxiaozhen88/koolproxyR.git
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
 git clone https://github.com/Lienol/openwrt-package.git
 git clone https://github.com/vernesong/OpenClash.git
+git clone https://github.com/zjwxh/lienol-openwrt-package.git
+git clone https://github.com/fw876/helloworld.git
