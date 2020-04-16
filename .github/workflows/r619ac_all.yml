@@ -27,7 +27,7 @@ env:
   REPO_BRANCH: master
   CONFIG_FILE: r619ac_all.config
   DIY_SH: r619ac_all.sh
-  SSH_ACTIONS: false
+  SSH_ACTIONS: true
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
