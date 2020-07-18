@@ -17,8 +17,8 @@ on:
       - master
     paths:
       - 'r619ac_all.config'
-  schedule:
-    - cron: 0 21 * * 5
+  #schedule:
+  #  - cron: 0 21 * * 5
   watch:
     types: started
 
